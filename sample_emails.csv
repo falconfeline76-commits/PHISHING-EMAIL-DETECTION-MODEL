@@ -1,0 +1,25 @@
+email_text,label
+"URGENT: Your account will be suspended. Verify your password immediately at http://192.0.2.44/login",phishing
+"Congratulations, you won a gift card! Click http://bit.ly/example to claim your reward now.",phishing
+"Your invoice is overdue. Confirm your bank account details within 24 hours at http://billing-check.example.top",phishing
+"Security alert: unusual login detected. Sign in and verify your credentials at http://account-security.example.click",phishing
+"Final notice: your package cannot be delivered. Pay the small fee at http://delivery-check.example",phishing
+"Please send your one-time security code and password so we can unlock your account immediately.",phishing
+"You have been selected for a refund. Provide your credit card information using this link: http://refund.example.review",phishing
+"Act now to avoid a penalty. Wire transfer payment to the updated account listed at http://pay.example/download",phishing
+"Your mailbox storage is full. Login here to prevent email loss: http://mail-update.example",phishing
+"Important: confirm your social security number for a tax refund at http://tax-help.example",phishing
+"Last warning! Your subscription will be canceled unless you click http://renewal.example and confirm payment.",phishing
+"Dear customer, we detected suspicious activity. Verify your account and security code immediately.",phishing
+"The team meeting is scheduled for Tuesday at 10:00 AM in Conference Room B.",safe
+"Your monthly utility statement is ready in the customer portal. No action is required.",safe
+"Thanks for your order. Your receipt is attached, and your package will arrive on Friday.",safe
+"Reminder: please review the agenda before tomorrow's project meeting.",safe
+"Your library books are due next week. You can renew them through the usual library website.",safe
+"The community newsletter is available for this month. Thank you for subscribing.",safe
+"Your appointment with the clinic is confirmed for 14 June at 2 PM.",safe
+"The payroll team has published the regular payslip in the employee portal.",safe
+"Here are the notes from our design review. Please send any corrections by Thursday.",safe
+"Your requested report is attached. Let me know if you would like any changes.",safe
+"The annual benefits enrollment period begins Monday. Visit the internal HR portal for details.",safe
+"Thank you for contacting support. We have opened ticket 1042 and will reply during business hours.",safe
